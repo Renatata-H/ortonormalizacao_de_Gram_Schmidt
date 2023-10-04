@@ -1,5 +1,3 @@
-import math   # É necessário uma math.sqrt para tirar módulo de um vetor.
-
 def proj_ortogonal(u,f):
     """
     Para calcular Proj_f(u), isto é, a projeção de u em f, a função deve 
